@@ -6,7 +6,7 @@ C2Eye es una herramienta portable que te permite monitorear TODAS las conexiones
 
 ## ¿Cómo usarla?
 
-1. **Descarga** C2Eye.exe
+1. **Descarga** C2Eye.exe desde https://hackingetico.cl/C2Eye.exe
 2. **Ejecuta** el archivo (no necesita instalación)
 3. **Observa** todas las conexiones activas en tiempo real
 4. **Geolocaliza** cualquier IP haciendo clic en ella
